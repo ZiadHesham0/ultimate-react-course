@@ -71,7 +71,7 @@ npm install
 # Start development server
 npm run dev
 ```
-
+---
 🔗 Useful Links
 
 Original Course Repo: [jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course)  

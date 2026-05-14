@@ -74,6 +74,6 @@ npm run dev
 
 🔗 Useful Links
 
-Original Course Repo:  (https://github.com/jonasschmedtmann/ultimate-react-course) [jonasschmedtmann/ultimate-react-course]
+Original Course Repo: [jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course)
 My Solutions: (you are here)
-Course:  [The Ultimate React Course on Udemy] (https://www.udemy.com/course/the-ultimate-react-course/)
+Course: [The Ultimate React Course on Udemy](https://www.udemy.com/course/the-ultimate-react-course/)

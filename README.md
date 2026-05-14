@@ -19,7 +19,8 @@ This repository serves as a comprehensive collection of all projects, challenges
 
 | Section | Project                  | Status         |
 |---------|--------------------------|----------------|
-| 03      | Pizza Menu               | In Progress    |
+| 03      | Pizza Menu               | Completed✅    |
+| 04      | steps                    | In Progress    |
 | 05      | Travel List              | Not Started    |
 | 06      | Eat-n-Split              | Not Started    |
 | 07      | usePopcorn               | Not Started    |

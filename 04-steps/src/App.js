@@ -52,9 +52,9 @@ function Step() {
             <Button bgColor="#7950f2" color="#fff" onClick={handlePrevious}>
               <span>👈</span> Previous
             </Button>
-            <button bgColor="#7950f2" color="#fff" onClick={handleNext}>
+            <Button bgColor="#7950f2" color="#fff" onClick={handleNext}>
               Next <span>👉</span>
-            </button>
+            </Button>
           </div>
         </div>
       )}

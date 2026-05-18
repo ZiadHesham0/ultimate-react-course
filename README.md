@@ -21,9 +21,9 @@ This repository serves as a comprehensive collection of all projects, challenges
 |---------|--------------------------|----------------|
 | 03      | Pizza Menu               | Completed✅    |
 | 04      | steps                    | Completed✅    |
-| 05      | Travel List              | In Progress    |
+| 05      | Travel List              | Completed✅    |
 | 06      | Eat-n-Split              | Not Started    |
-| 07      | usePopcorn               | Not Started    |
+| 07      | usePopcorn               | Completed✅    |
 | 09      | Classy Weather           | Not Started    |
 | 10      | React Quiz               | Not Started    |
 | 11      | WorldWise                | Not Started    |

@@ -26,7 +26,7 @@ This repository serves as a comprehensive collection of all projects, challenges
 | 07      | usePopcorn               | Completed✅    |
 | 09      | Classy Weather           | Not Started    |
 | 10      | React Quiz               | Not Started    |
-| 11      | WorldWise                | Not Started    |
+| 11      | WorldWise                | In Progress    |
 | 16      | Fast React Pizza         | Not Started    |
 | 17      | The Wild Oasis           | Not Started    |
 | 21      | The Wild Oasis Website   | Not Started    |
